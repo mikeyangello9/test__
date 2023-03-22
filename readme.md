@@ -1,5 +1,3 @@
 # hello there!
 
-# hello again!
-
-# new branch
+# hello again
